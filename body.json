@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "item": "Clean Room",
+        "completed": false
+    },
+    {
+        "id": "2",
+        "item": "Dirty Room",
+        "completed": false
+    },
+    {
+        "id": "3",
+        "item": "Messy Room",
+        "completed": false
+    },
+    {
+        "id": "4",
+        "item": "Beauty Room",
+        "completed": false
+    }
+]
